@@ -16,9 +16,9 @@
 #define LLVM_SYSTEM_SWAP_BYTE_ORDER_H
 
 #include "llvm/Support/DataTypes.h"
-#include <stdlib.h>
 #include <cstddef>
 #include <limits>
+#include <cstdlib>
 
 namespace llvm {
 namespace sys {
